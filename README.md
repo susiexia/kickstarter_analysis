@@ -7,7 +7,8 @@
 [startbooks.xlsx](/data-1-1-3-StarterBook.xlsx)
 ## Descriptive Statistic
 * This descriptive statistic uncovered central tendency and spread of US play campaign, which comparing successful outcomes to failed. As we can see, those failed campaigns have higher average goal as well as much higher standard deviation than successful campaign. However in pledged section, failed campaigns have lower average and median as well as IQR than successful campaign. 
-![US_descriptive Statistics_play.JPG](/US_descriptive%20Statistics_play.JPG)
+[US_descriptive Statistics_play.JPG](/US_descriptive%20Statistics_play.JPG)
+[boxPlot_GB_Musical.JPG](/boxPlot_GB_Musical.JPG)
 
 ### Challenge
 According to further analysis, there are several conclusions we can made based on our analysis.
