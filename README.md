@@ -5,8 +5,8 @@
 3. Provides some solid information and uncovers dataset trends to Louise to help inform her campaign strategy.
 ## Data analysis on Excel sheets
 [startbooks.xlsx](/data-1-1-3-StarterBook.xlsx)
-## Descriptive Statistic
-* This descriptive statistic uncovered central tendency and spread of US play campaign, which comparing successful outcomes to failed. As we can see, those failed campaigns have higher average goal as well as much higher standard deviation than successful campaign. However in pledged section, failed campaigns have lower average and median as well as IQR than successful campaign. 
+### Descriptive Statistic
+* This descriptive statistic uncovered central tendency and spread of US play campaign, which comparing successful outcomes to failed projects. As we can see, those failed campaigns have higher average goal as well as much higher standard deviation than successful campaign. However in pledged section, failed campaigns have lower average and median as well as IQR than successful campaign. 
 [US_descriptive Statistics_play.JPG](/US_descriptive%20Statistics_play.JPG)
 [boxPlot_GB_Musical.JPG](/boxPlot_GB_Musical.JPG)
 
@@ -27,7 +27,7 @@ According to further analysis, there are several conclusions we can made based o
 * As we can see, the above line chart displays both of May and June have more successful theater outcomes through the years. Besides of summer time, starting a crowdfunding project might not perform well. In addition, November and December might be the worst launch time.
 * Based on our analysis, I recommend Louise should start her crowdfunding project in May or Jun.
 
-#### Acknowledge Limitation
+#### Acknowledge Limitation:
 * So far, we have organized and sorted the data, and using two line charts to reveal trends that how a successful project related to the initial goal as well as launch date. However, there still are several limitation. For example, there might be many kind of plays under the plays subcategory, we need other dataset to narrow down.
 * We need other tables and charts to uncover whether the length of each project have any significant effect to outcomes.
-* Furthermore, we can figure out if there any trends between the successful outcomes and the number of backers or the location.
+* Furthermore, we can figure out if there any trends between the successful outcomes and the number of backers as well as the location.
