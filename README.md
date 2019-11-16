@@ -24,6 +24,7 @@ According to further analysis, there are several conclusions we can made based o
 
 #### Outcomes based on launch date:
 >[Outcomes_Launch_Date.JPG](/Outcomes_Launch_Date.JPG)
+and [PivotTable and Charts.JPG](/PivotTable%26Charts.JPG)
 * As we can see, the above line chart displays both of May and June have more successful theater outcomes through the years. Besides of summer time, starting a crowdfunding project might not perform well. In addition, November and December might be the worst launch time.
 * Based on our analysis, I recommend Louise should start her crowdfunding project in May or Jun.
 
